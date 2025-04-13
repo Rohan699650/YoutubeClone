@@ -3,6 +3,7 @@
 A simple YouTube Clone built using HTML, CSS, and JavaScript.  
 This project replicates the basic layout and functionality of YouTube’s homepage.
 
+https://youtubecln07.netlify.app/
 ## 🚀 Features
 
 - 📺 Video thumbnails with titles
